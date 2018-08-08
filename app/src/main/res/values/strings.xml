@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">DroidPheramor</string>
+    <string name="api_server_url">https://external.dev.pheramor.com/</string>
+    <string name="media_type_string">application/json; charset=utf-8</string>
+    <string name="both_label">Both</string>
+    <string name="date_separator">/</string>
+    <string name="height_separator">\'</string>
+    <string name="label_welcome">Welcome, Guest!</string>
+    <string name="label_email">Please enter your email address</string>
+    <string name="label_next">Next</string>
+    <string name="label_step1">Step 1. Email address</string>
+    <string name="label_step2">Step 2. Credential</string>
+    <string name="label_password">Please enter the password</string>
+    <string name="label_pass_confirm">Please enter the password confirm</string>
+    <string name="label_inch">Inch</string>
+    <string name="label_feet">Feet</string>
+    <string name="label_zip">Zip code</string>
+    <string name="label_full_name">Please enter your full name</string>
+    <string name="label_height">Height:</string>
+    <string name="label_step3">Step 3. Name and height</string>
+    <string name="label_step4">Step 4. Gender and DOB</string>
+    <string name="label_dob">Please enter your date of birth</string>
+    <string name="label_male">Male</string>
+    <string name="label_female">Female</string>
+    <string name="label_iam">I\'m</string>
+    <string name="label_step5">Step 5. Interest</string>
+    <string name="label_interested">I\'m interested in:</string>
+    <string name="label_age_range">Age range:</string>
+    <string name="label_step6">Step 6. Race and religion</string>
+    <string name="label_race">Race:</string>
+    <string name="label_religion">Religion:</string>
+    <string name="label_step7">Step 7. Profile Picture</string>
+    <string name="label_profile">Click the image to upload your profile picture</string>
+    <string name="desc_profile">Profile picture</string>
+    <string name="label_default">Default</string>
+    <string name="label_dob_full">Date of birth:</string>
+    <string name="label_gender">Gender:</string>
+    <string name="label_step_last">Last Step. Confirm</string>
+    <string name="label_email_full">Email:</string>
+    <string name="label_full">Full name:</string>
+    <string name="label_finish">Finish</string>
+    <string-array name="race_array">
+        <item>Please choose</item>
+        <item>American Indian or Alaska Native</item>
+        <item>Asian</item>
+        <item>Black or African American</item>
+        <item>Native Hawaiian or Other Pacific Islander</item>
+        <item>White</item>
+    </string-array>
+    <string-array name="religion_array">
+        <item>Please choose</item>
+        <item>Atheist</item>
+        <item>Christianity</item>
+        <item>Islam</item>
+        <item>Nonreligious</item>
+        <item>Hinduism</item>
+        <item>Chinese traditional religion</item>
+        <item>Buddhism</item>
+        <item>Primal-indigenous</item>
+        <item>Judaism</item>
+        <item>Unitarian-Universalism</item>
+        <item>Shinto</item>
+    </string-array>
+</resources>
